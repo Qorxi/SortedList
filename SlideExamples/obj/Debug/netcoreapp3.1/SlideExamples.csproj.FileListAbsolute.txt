@@ -1,0 +1,13 @@
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\bin\Debug\netcoreapp3.1\SlideExamples.exe
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\bin\Debug\netcoreapp3.1\SlideExamples.deps.json
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\bin\Debug\netcoreapp3.1\SlideExamples.runtimeconfig.json
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\bin\Debug\netcoreapp3.1\SlideExamples.runtimeconfig.dev.json
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\bin\Debug\netcoreapp3.1\SlideExamples.dll
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\bin\Debug\netcoreapp3.1\SlideExamples.pdb
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\obj\Debug\netcoreapp3.1\SlideExamples.csprojAssemblyReference.cache
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\obj\Debug\netcoreapp3.1\SlideExamples.csproj.CoreCompileInputs.cache
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\obj\Debug\netcoreapp3.1\SlideExamples.AssemblyInfoInputs.cache
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\obj\Debug\netcoreapp3.1\SlideExamples.AssemblyInfo.cs
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\obj\Debug\netcoreapp3.1\SlideExamples.dll
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\obj\Debug\netcoreapp3.1\SlideExamples.pdb
+C:\Users\Gorkhmaz Mahharamov\source\repos\SlideExamples\SlideExamples\obj\Debug\netcoreapp3.1\SlideExamples.genruntimeconfig.cache
